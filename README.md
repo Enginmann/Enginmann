@@ -1,16 +1,50 @@
-## Hi there 👋
+<h2 align="center">
+  👨‍💻 Omar | Computer Engineering Student
+</h2>
 
-<!--
-**Enginmann/Enginmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/enginmann">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Problem%20Solver;Passionate%20Learner;Building%20Cool%20Projects&font=Fira%20Code&center=true&width=500&height=45&color=4CAF50&vCenter=true&size=22">
+  </a>
+</p> 
 
-Here are some ideas to get you started:
+<p align="center">
+  I'm a Computer Engineering student at Cairo University, passionate about problem-solving, programming, and exploring new technologies.  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🎓 Studying **Computer Engineering @ Cairo University**  
+- 💡 Focused on **algorithms, C++ development, and practical projects**  
+- ⚡ Motivated by solving problems and continuous learning  
+- 🌱 Currently improving my **C++ and Python skills**  
+
+---
+
+### 🔗 Connect with Me
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-Omar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
+---
+
+### 🛠 Skills and Tools
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
+
+---
+
+### 📂 Featured Projects
+- [Project 1](https://github.com/) – Short description here  
+- [Project 2](https://github.com/) – Short description here  
+- [Project 3](https://github.com/) – Short description here  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enginmann&show_icons=true&theme=radical" height="150"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enginmann&layout=compact&theme=radical" height="150"/>
+</p>
