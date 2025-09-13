@@ -37,9 +37,9 @@
 ---
 
 ### 📂 Featured Projects
-- [Project 1](https://github.com/) – Short description here  
-- [Project 2](https://github.com/) – Short description here  
-- [Project 3](https://github.com/) – Short description here  
+- [🎮 Tetris](https://github.com/Enginmann/Tetris) – Classic Tetris built in C++ with simple graphics and game logic.  
+- [🌀 Maze Generator](https://github.com/Enginmann/Maze-Generator) – Depth-First Search algorithm visualized to generate random mazes.  
+- [📊 Sorting Visualizer](https://github.com/Enginmann/Sorting-Visualizer) – Interactive visualizer for bubble sort.   
 
 ---
 
